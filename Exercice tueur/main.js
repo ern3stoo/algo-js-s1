@@ -33,7 +33,5 @@ let proba = [0.3, 0.5, 0.2]
 let suffleSurvivor = personnage
 
 let survivorOne = new survivor (personnage[Math.random], 30, proba[Math.random], proba[Math.random], proba[Math.random])
-let survivorTwo = [30]
-let survivorThree = 
-let survivorFour =
-let survivorFive =
+let survivorTwo 
+
